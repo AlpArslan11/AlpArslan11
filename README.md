@@ -11,8 +11,6 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 - <span style='font-size:100px;'>&#127992;</span> I’m currently learning Java, Lambda, Jenkins, API, Selenium, SQL, SDLC, JDBC <span style='font-size:100px;'>&#128077;</span>
 - 🤔 I’m looking for help everything abt how to be a qualified QA
 - 💬 Ask me about nothing now:)
-- 📫 How to reach me: www.linkedin.com/in/alp-arslan-3956b5233
-                       maslan11alp@gmail.com
 - ⚡ Fun fact: I love 💻coding... <span style='font-size:100px;'>&#128640;</span>space.. working with 👨‍💻computers... <span style='font-size:100px;'>&#127911;</span>
 🎻listening violin... easyWays of everything:) :blush:
 
@@ -24,6 +22,7 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlpArslan11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alp-arslan-3956b5233/)
 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[Gmail].svg" />(maslan11alp@gmail.com)
 
 
 
