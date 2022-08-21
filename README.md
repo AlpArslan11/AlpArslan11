@@ -1,4 +1,4 @@
-Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span>
+Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span style='font-size:100px;'>&#128526;</span>
 
 just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
 
