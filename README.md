@@ -1,8 +1,12 @@
+<img src="https://giphy.com/embed/vsfA2ZTLWIMDK" allign="right" width="480" height="191"> 
+
+
+
 Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span style='font-size:100px;'>&#128526;</span>
 
 just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
 
-- <span style='font-size:100px;'>&#128084;</span>I'm a Husband, Father, Teacher and QA after now!                   <iframe src="https://giphy.com/embed/vsfA2ZTLWIMDK" width="480" height="191" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/game-of-thrones-fire-vsfA2ZTLWIMDK">via GIPHY</a></p>
+- <span style='font-size:100px;'>&#128084;</span>I'm a Husband, Father, Teacher and QA after now!                  
 - <span style='font-size:100px;'>&#9889;</span> I’m currently working on very important things😄
 - <span style='font-size:100px;'>&#127992;</span> I’m currently learning Java, Lambda, Jenkins, API, Selenium, SQL, SDLC, JDBC <span style='font-size:100px;'>&#128077;</span>
 - 🤔 I’m looking for help everything abt how to be a qualified QA
