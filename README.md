@@ -30,3 +30,4 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/Selenium.svg" align="left"/>]
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11)](https://github.com/anuraghazra/github-readme-stats)
