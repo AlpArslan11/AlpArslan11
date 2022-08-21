@@ -1,8 +1,8 @@
-<img src="https://media.giphy.com/media/vsfA2ZTLWIMDK/source.gif" allign="right" width="480" height="191"> 
+<img src="https://media.giphy.com/media/vsfA2ZTLWIMDK/source.gif" align="right" width="480" height="191"> 
 
 
 
-###Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span style='font-size:100px;'>&#128526;</span>
+Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span style='font-size:100px;'>&#128526;</span>
 
 just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
 
@@ -19,5 +19,8 @@ listening violin... easyWays of everything:) :blush:
 
 
 ### Reach out to me
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
+[linkedin] : https://www.linkedin.com/in/alp-arslan-3956b5233/
 
 
