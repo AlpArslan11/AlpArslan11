@@ -20,14 +20,13 @@ listening violin... easyWays of everything:) :blush:
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][https://www.linkedin.com/in/alp-arslan-3956b5233/]
 <br />
 <br />
-[linkedin]:https://www.linkedin.com/in/alp-arslan-3956b5233/
+[linkedin]:
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
+
 
 
 
