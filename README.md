@@ -4,7 +4,7 @@
 
 Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span style='font-size:100px;'>&#128526;</span>
 
-just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
+:basecamp:Just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
 
 - <span style='font-size:100px;'>&#128084;</span>I'm a Husband, Father, Teacher and QA after now!                  
 - <span style='font-size:100px;'>&#9889;</span> I’m currently working on very important things😄
@@ -13,8 +13,8 @@ just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;<
 - 💬 Ask me about nothing now:)
 - 📫 How to reach me: www.linkedin.com/in/alp-arslan-3956b5233
                        maslan11alp@gmail.com
-- ⚡ Fun fact: I love coding... <span style='font-size:100px;'>&#128640;</span>space.. working with computers... <span style='font-size:100px;'>&#127911;</span>
-listening violin... easyWays of everything:) :blush:
+- ⚡ Fun fact: I love coding... <span style='font-size:100px;'>&#128640;</span>space.. working with :computer:computers... <span style='font-size:100px;'>&#127911;</span>
+🎻listening violin... easyWays of everything:) :blush:
 
 
 
