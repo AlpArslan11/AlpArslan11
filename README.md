@@ -28,5 +28,5 @@ listening violin... easyWays of everything:) :blush:
 
 
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/selenium.svg" align="left"/>]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/Selenium.svg" align="left"/>]
 
