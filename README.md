@@ -23,7 +23,7 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alp-arslan-3956b5233/)  
 
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][https://www.linkedin.com/in/alp-arslan-3956b5233/]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>](https://www.linkedin.com/in/alp-arslan-3956b5233/)
 <br />
 <br />
 [linkedin]:
