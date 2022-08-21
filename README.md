@@ -1,4 +1,5 @@
 Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span>
+
 just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
 
 - <span style='font-size:100px;'>&#128084;</span>I'm a Husband, Father, Teacher and QA after now!
