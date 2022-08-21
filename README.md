@@ -31,4 +31,4 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
-![GitHub metrics](https://metrics.lecoq.io/AlpArslan11)  
+  
