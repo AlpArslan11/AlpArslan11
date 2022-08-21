@@ -32,4 +32,8 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 <br/>
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlpArslan11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alp-arslan-3956b5233/) 
+
   
