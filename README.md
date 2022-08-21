@@ -16,6 +16,6 @@ just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;<
 - ⚡ Fun fact: I love coding... <span style='font-size:100px;'>&#128640;</span>space.. working with computers... <span style='font-size:100px;'>&#127911;</span>
 listening violin... easyWays of everything:) :blush:
 
-
+<font color="blue"> Coffe is how Ikeep up with 'code' </font>
 
 
