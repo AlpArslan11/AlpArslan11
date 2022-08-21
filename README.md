@@ -1,4 +1,5 @@
-Hi! 👋 just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
+Hi! I'm Alparslan 👋 
+just a GitHub profile.. just everything..<span style='font-size:100px;'>&#9989;</span>
 
 - I'm a Husband, Father, Teacher and QA after now!
 - 🔭 I’m currently working on very important things😄
