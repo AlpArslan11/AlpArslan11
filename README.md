@@ -21,7 +21,7 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 ### Reach out to me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/alp-arslan-3956b5233/)  
-[<img src='https://unpkg.com/simple-icons@v7/icons/Selenium.svg' alt='Selenium' height='35'>]
+
 
 
 
@@ -29,3 +29,6 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
+![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
+![GitHub metrics](https://metrics.lecoq.io/AlpArslan11)  
