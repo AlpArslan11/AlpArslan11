@@ -1,9 +1,4 @@
-### Hi there 👋 just a GitHub profile.. just everything..
-
-<!--
-**AlpArslan11/AlpArslan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi! 👋 just a GitHub profile.. just everything..
 
 - 🔭 I’m currently working on very important things😄
 - 🌱 I’m currently learning Java, Lambda, Jenkins, API, Selenium, SQL, SDLC, JDBC. 
