@@ -26,3 +26,8 @@ listening violin... easyWays of everything:) :blush:
 [linkedin]:https://www.linkedin.com/in/alp-arslan-3956b5233/
 
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
+
+
+
