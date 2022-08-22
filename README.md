@@ -27,6 +27,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlpArslan11)  
+
+
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
 
 
