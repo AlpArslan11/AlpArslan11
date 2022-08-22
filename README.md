@@ -18,16 +18,15 @@ Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span styl
 
 ### Reach out to me
 
- 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/AlpArslan11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/alp-arslan-3956b5233/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='35'>](maslan11alp@gmail.com)  
 
-// [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/alp-arslan-3956b5233/) 
+ 
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
 
 
