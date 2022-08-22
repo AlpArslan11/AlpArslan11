@@ -10,7 +10,7 @@
 - <span style='font-size:100px;'>&#9889;</span> I’m currently working on very important things😄
 - <span style='font-size:100px;'>&#127992;</span> I’m currently learning Java, Lambda, Jenkins, API, Selenium, SQL, SDLC, JDBC <span style='font-size:100px;'>&#128077;</span>
 - 🤔 I’m looking for help everything abt how to be a qualified QA
-- 💬 Ask me about nothing now:)
+- 💬 Ask me about anything now in order to make me search for it:)
 - ⚡ Fun fact: I love 💻coding... <span style='font-size:100px;'>&#128640;</span>space.. working with 👨‍💻computers... <span style='font-size:100px;'>&#127911;</span>
 🎻listening violin... easyWays of everything:) :blush:
 
