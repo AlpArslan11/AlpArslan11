@@ -25,7 +25,7 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11&show_icons=true&theme=radical)    <img src="https://user-images.githubusercontent.com/101150339/188243190-41c050fc-b273-4135-8392-1876b38d50f0.gif" align="left" width="450" height="190"> 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11&show_icons=true&theme=radical)    <img src="https://user-images.githubusercontent.com/101150339/188243190-41c050fc-b273-4135-8392-1876b38d50f0.gif" align="left" width="450" height="190"> 
 
 
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
