@@ -1,5 +1,10 @@
 <img src="https://media.giphy.com/media/vsfA2ZTLWIMDK/source.gif" align="right" width="380" height="140"> 
-<br/>
+
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/101150339/188243190-41c050fc-b273-4135-8392-1876b38d50f0.gif" align="right" width="380" height="140"> 
 
 ### Hi! I'm Alparslan 👋 <span style='font-size:100px;'>&#129409;</span><span style='font-size:100px;'>&#128526;</span>
