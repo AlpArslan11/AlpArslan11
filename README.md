@@ -30,7 +30,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
 
-<img src="https://user-images.githubusercontent.com/101150339/188243190-41c050fc-b273-4135-8392-1876b38d50f0.gif" align="right" width="380" height="140"> 
+<img src="https://user-images.githubusercontent.com/101150339/188243190-41c050fc-b273-4135-8392-1876b38d50f0.gif" top="20" align="right" width="380" height="140"> 
  
 
 
