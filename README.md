@@ -13,15 +13,12 @@
 - ⚡ Fun fact: I love 💻coding... <span style='font-size:100px;'>&#128640;</span>space.. working with 👨‍💻computers... <span style='font-size:100px;'>&#127911;</span>
 🎻listening violin... easyWays of everything:) :blush:
 
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
