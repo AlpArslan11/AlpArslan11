@@ -37,7 +37,7 @@
  
 <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/jira.svg" />
 
-<img height="32" width="32" src="https://unpkg.com/browse/simple-icons@7.10.0/icons/postgresql.svg" /> 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/postgresql.svg" /> 
 
 
 
