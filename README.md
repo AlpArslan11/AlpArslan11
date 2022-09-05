@@ -8,7 +8,7 @@
 - <span style='font-size:100px;'>&#128084;</span>I'm a Husband, Father, Teacher and QA after now!                  
 - <span style='font-size:100px;'>&#9889;</span> I’m currently working on very important things😄
 - <span style='font-size:100px;'>&#127992;</span> I’m currently learning Java, Lambda, Jenkins, API, Selenium, SQL, SDLC, JDBC <span style='font-size:100px;'>&#128077;</span>
-            <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/adobephotoshop.svg" />   <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/selenium.svg" />     <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/jira.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/postgresql.svg" /> 
+   <br/>   <img height="25" width="25" src="https://unpkg.com/simple-icons@7.10.0/icons/selenium.svg" />     <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/jira.svg" />  <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/postgresql.svg" /> 
             
             
             
