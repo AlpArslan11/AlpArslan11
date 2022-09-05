@@ -1,7 +1,3 @@
-![Banner Resmi]<img src="https://github.com/AlpArslan11/AlpArslan11/blob/main/indir.jfif" width="950" height="140"><br/>
-
-
-
 
 
 <img src="https://media.giphy.com/media/vsfA2ZTLWIMDK/source.gif" align="right" width="380" height="140"> 
