@@ -33,8 +33,8 @@
 
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
 
- <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/selenium.svg" />
-
+ [selenium]<img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/selenium.svg" />
+[photoshop]https://unpkg.com/browse/simple-icons@7.10.0/icons/adobephotoshop.svg
 
 
 
