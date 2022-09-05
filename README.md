@@ -31,7 +31,8 @@
 ![Profile views](https://gpvc.arturio.dev/AlpArslan11)  
 
 
- 
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+
 
 
 
