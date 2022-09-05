@@ -35,6 +35,7 @@
 
  <img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/selenium.svg" />
  
+<img height="32" width="32" src="https://unpkg.com/simple-icons@7.10.0/icons/jira.svg" />
 
 
 
