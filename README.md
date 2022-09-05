@@ -1,3 +1,4 @@
+![Banner Resmi](https://github.com/AlpArslan11/AlpArslan11/blob/main/indir.jfif)()
 <img src="https://media.giphy.com/media/vsfA2ZTLWIMDK/source.gif" align="right" width="380" height="140"> 
 
 
