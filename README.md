@@ -1,4 +1,4 @@
-![Banner Resmi]<img src="https://github.com/AlpArslan11/AlpArslan11/blob/main/indir.jfif" width="850"><br/>
+![Banner Resmi]<img src="https://github.com/AlpArslan11/AlpArslan11/blob/main/indir.jfif" width="950" height="140"><br/>
 
 
 
