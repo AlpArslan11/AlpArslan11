@@ -63,10 +63,15 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   
  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/9b7d9419-2810-4c96-9a20-bf623777c51b" alt="RestAssured" width="40" height="40"/> </a>
- <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/250488ff-cca9-4132-9a1e-f5c67e510b3a" alt="Json" width="40" height="40"/> </a>
- <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/ba74d3d8-8514-4d6d-8c64-c8edb37bff6d" alt="CucumberBdd" width="40" height="40"/> </a>
- <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/513852a7-0949-49d0-936f-15abd497d71a" alt="TestNG" width="40" height="40"/> </a>
+ 
+ <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/a1c841ae-e78e-4433-b6ca-e33a8a5a154e" alt="Json" width="40" height="40"/> </a>
+ 
+ <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/d8cfb6e8-5f1c-4c80-b738-4662556f7f2a" alt="CucumberBdd" width="40" height="40"/> </a>
+ 
+ <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/cb9c0f9f-cef7-4fd1-bc8b-bcd813483b4d" alt="TestNG" width="40" height="40"/> </a>
+ 
  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/bd32c831-ce10-4a40-a43d-34d833039459" alt="Junit" width="40" height="40"/> </a>
+ 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/505eb129-58d7-4471-9de2-2cc6d4407b86" alt="VSCode" width="40" height="40"/> </a>
      <a href="https://www.jetbrains.com/aqua/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/693c8729-9b97-48db-938b-ab16287d4e59" alt="JetBrains Aqua" width="40" height="40"/> </a>
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
