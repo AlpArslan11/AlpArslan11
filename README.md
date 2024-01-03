@@ -47,7 +47,7 @@
 
 <br>
 
-<h3 align="left"><img alt="Coding" width="30" src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/f06233f9-05b6-425e-9a86-e5d5730151f8"> Tools, Technologies and Languages that I use </h3>
+<h3 align="left"><img alt="Coding" width="30" src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/9cb3fd43-5ee1-4e67-845d-2afa327053a2"> Tools, Technologies and Languages that I use </h3>
 <p align="left"> 
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/e7d382fe-fcd4-4302-91c3-cc01ca6b8615" alt="selenium" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
