@@ -63,23 +63,15 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   
  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/9b7d9419-2810-4c96-9a20-bf623777c51b" alt="RestAssured" width="40" height="40"/> </a>
- 
  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/a1c841ae-e78e-4433-b6ca-e33a8a5a154e" alt="Json" width="40" height="40"/> </a>
- 
  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/d8cfb6e8-5f1c-4c80-b738-4662556f7f2a" alt="CucumberBdd" width="40" height="40"/> </a>
- 
- <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/cb9c0f9f-cef7-4fd1-bc8b-bcd813483b4d" alt="TestNG" width="40" height="40"/> </a>
- 
- <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/bd32c831-ce10-4a40-a43d-34d833039459" alt="Junit" width="40" height="40"/> </a>
- 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/505eb129-58d7-4471-9de2-2cc6d4407b86" alt="VSCode" width="40" height="40"/> </a>
-     <a href="https://www.jetbrains.com/aqua/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/693c8729-9b97-48db-938b-ab16287d4e59" alt="JetBrains Aqua" width="40" height="40"/> </a>
-   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-     <a href="https://www.amazon.com.tr/What-Agile-Methodology-Software-Development/dp/B099N35XLB" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/b79c8fc9-cf33-4505-93ff-24743b3ad276" alt="Agile" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/what-is/sdlc/#:~:text=The%20software%20development%20lifecycle%20(SDLC,expectations%20during%20production%20and%20beyond." target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/493c7d62-3d11-4e55-b156-31de9425290a" alt="SDLC" width="40" height="40"/> </a>
- <a href="https://www.geeksforgeeks.org/software-testing-life-cycle-stlc/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/fcc33ac5-312c-4ea8-92ac-d12b29278359" alt="STLC" width="40" height="40"/> </a>
-
-
+ <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/095683ff-83ce-412d-8aae-57a81e9401b4" alt="TestNG" width="40" height="40"/> </a>
+ <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/095b51f1-3689-43e1-a73e-b45b47ced435" alt="Junit" width="40" height="40"/> </a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/afce632f-b464-48be-a290-a0f940d3f0a8" alt="VSCode" width="40" height="40"/></a>
+ <a href="https://www.jetbrains.com/aqua/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/425bfe1a-028a-474f-8fa8-6036aa4f6e8e" alt="JetBrains Aqua" width="40" height="40"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/b086228f-902c-4fb3-b05f-9f13dc593a10" alt="photoshop" width="40" height="40"/> </a>
+ <a href="https://www.amazon.com.tr/What-Agile-Methodology-Software-Development/dp/B099N35XLB" target="_blank" rel="noreferrer"> <img src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/72650b27-43f0-490f-8d7c-83f07acb7b3c" alt="Agile" width="40" height="40"/> </a>
+    
 </p>
 
 <p>&nbsp;<img align="center" src="https://git
