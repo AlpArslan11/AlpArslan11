@@ -74,15 +74,6 @@
     
 </p>
 
-
-
-
-
-![AlpArslan11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlpArslan11&theme=default&hide_border=true)
-
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpArslan11&show_icons=true&count_private=true&theme=default)](https://github.com/AlpArslan11)
 
 
