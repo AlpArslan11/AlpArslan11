@@ -74,7 +74,11 @@
     
 </p>
 
-<p>&nbsp;<img align="center" src="https://git
+
+
+
+
+![AlpArslan11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlpArslan11&theme=default&hide_border=true)
 
 
 
