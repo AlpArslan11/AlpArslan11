@@ -1,7 +1,7 @@
 
 
 <img align="left" height="60" width="130" src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/f906a4b5-1391-4046-b056-d0202b4c5adf" />
-<img align="right" alt="Coding" width="60" src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/9375f2a4-ece0-49f0-94c5-e0c62317dc9c">
+<img align="right" alt="Coding" width="70" src="https://github.com/AlpArslan11/AlpArslan11/assets/101150339/9375f2a4-ece0-49f0-94c5-e0c62317dc9c">
 
 <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Medium&weight=600&size=29&pause=1000&color=1F2136&center=true&vCenter=true&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+M.Alparslan%F0%9F%A6%81;Nice+to+meet+you!%F0%9F%98%8E;%F0%9F%91%8DHave+a+nice+day!%F0%9F%91%8D" /> 
 <br>
